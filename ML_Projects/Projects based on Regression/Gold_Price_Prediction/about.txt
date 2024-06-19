@@ -1,0 +1,18 @@
+SPX: This typically refers to the Standard & Poor's 500 index, which is a stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States.
+
+GLD: This likely refers to the SPDR Gold Shares ETF, which is an exchange-traded fund that aims to track the price of gold.
+
+USO: This likely refers to the United States Oil Fund, which is an exchange-traded fund that tracks the price movements of light, sweet crude oil.
+
+SLV: This likely refers to the iShares Silver Trust, which is an exchange-traded fund that aims to track the price of silver.
+
+EUR/USD: This refers to the exchange rate between the Euro (the currency used by the Eurozone countries) and the US Dollar (USD), indicating how many US dollars are needed to purchase one Euro.
+
+Therefore, the variables in your dataset are financial instruments and an exchange rate, specifically:
+
+SPX (Stock market index)
+GLD (Gold ETF)
+USO (Oil ETF)
+SLV (Silver ETF)
+EUR/USD (Euro to US Dollar exchange rate)
+These variables are measured against dates, likely capturing their daily values over time in the dataset
