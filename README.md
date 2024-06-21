@@ -93,7 +93,6 @@ This repository contains:
   - **7 Classification Projects**: Implementing various classification algorithms on different datasets.
   - **5 Regression Projects**: Applying regression techniques to predict continuous outcomes.
   - **1 Clustering Project**: Using clustering algorithms to group similar data points.
-- **Jupyter Notebooks Explaining ML Algorithms**: In-depth tutorials and examples for understanding and implementing various Machine Learning algorithms.
 
 ## Medium Articles
 
